@@ -1056,9 +1056,9 @@ footer .autor a{
         color: #0D0D0D;
         border: none;
         font-family:"Montserrat", sans-serif;
-        font-size: 10px;
+        font-size: 8px;
         background-color: #F272B8;
-        width: 90%;
+        max-width: 100%;
         margin-top: -40px;
     }
 
