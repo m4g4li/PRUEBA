@@ -1011,7 +1011,6 @@ footer .autor a{
 
     .container1 {
         grid-template-columns: 1fr;
-        min-width: 400px;
         background-color: #F2F2F2;
     }
     
